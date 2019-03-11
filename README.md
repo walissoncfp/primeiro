@@ -1,0 +1,2 @@
+# primeiro
+MNIST_teste 
